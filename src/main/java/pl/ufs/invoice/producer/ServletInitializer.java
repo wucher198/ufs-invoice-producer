@@ -1,4 +1,4 @@
-package pl.ufs.invoce.producer;
+package pl.ufs.invoice.producer;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

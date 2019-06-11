@@ -1,4 +1,4 @@
-package pl.ufs.invoce.producer;
+package pl.ufs.invoice.producer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
